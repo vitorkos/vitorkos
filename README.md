@@ -1,7 +1,7 @@
 ### Hi, I'm Vitor
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Kauã-12f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-kauã-oliveira-de-souza/)](https://www.linkedin.com/in/vitor-kauã-oliveira-de-souza/) 
-[![Gmail Badge](https://img.shields.io/badge/-vitorkosejt@gmail.com-12f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Kauã-591278?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-kauã-oliveira-de-souza/)](https://www.linkedin.com/in/vitor-kauã-oliveira-de-souza/) 
+[![Gmail Badge](https://img.shields.io/badge/-vitorkosejt@gmail.com-591278?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
  
  ##
  
