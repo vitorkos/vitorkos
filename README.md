@@ -1,5 +1,5 @@
 # Vitor Kauã Oliveira de Souza
-## [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Kauã-591278?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-kauã-oliveira-de-souza/)](https://www.linkedin.com/in/vitor-kauã-oliveira-de-souza/) [![Gmail](https://img.shields.io/badge/Gmail-D14836??style=flat-square&logo=gmail&logoColor=white)](mailto:vitorkos.contact@gmail.com)
+## [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-kauã-oliveira-de-souza/) [![Gmail](https://img.shields.io/badge/Gmail-D14836??style=flat-square&logo=gmail&logoColor=white)](mailto:vitorkos.contact@gmail.com) [![Site](https://img.shields.io/badge/vitorkos.com-blue?style=flat-square)](https://www.vitorkos.com)
 
 ## Computer Scientist | Software Engineer | Full-Stack Developer | Mastery and proficiency in Java | Mastery and proficiency in Python 
 
